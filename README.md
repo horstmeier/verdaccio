@@ -1,3 +1,8 @@
+
+This is a fork of the verdaccio project, that is intended to support new features around the use of verdaccio in an enterprise
+environment. Right now there is nothing more to tell. Below you find the original documentation of the project:
+
+
 `verdaccio` is a fork of `sinopia`. It aims to keep backwards compatibility with `sinopia`, while keeping up with npm changes.
 
 `sinopia` - a private/caching npm repository server
